@@ -14,6 +14,19 @@ $ cd my-project
 $ npm i
 ```
 
+## Build & Run
+
+``` bash
+# If u wanna run in development 
+$ npm run dev
+
+# If u wanna build this project
+$ npm build
+
+# If u wanna run production
+$ npm start
+```
+
 ## Feature 
 This boilerplate have default feature
 - Jwt register/login
@@ -32,6 +45,7 @@ This boilerplate have package support
 - Eslint airbnb (lil custom)
 - ORM Sequelize
 - @hapi/joi
+- Babel
 
 ### Advanced (cooming soon)
 This boilerplate also have default advanced feature 
