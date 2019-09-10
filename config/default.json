@@ -1,0 +1,7 @@
+{
+  "nakoding": {
+    "appPort": "3000",
+    "grpcPort": "3001",
+    "grpcMockPort": "3002"
+  }
+}

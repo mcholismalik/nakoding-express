@@ -1,0 +1,12 @@
+{
+  "nakoding": {
+    "db": {
+      "host": "localhost",
+      "user": "postgres",
+      "name": "nakoding-express",
+      "dialect": "postgres"
+    },
+    "publicIp": "127.0.0.1",
+    "domain": "localhost"
+  }
+}
