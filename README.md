@@ -1,5 +1,5 @@
-# Nakoding ExpressJS Boilerplate
-This project is boilerplate to build API in ExpressJS - NodeJS
+# Nakoding API Boilerplate with Express
+This project is boilerplate to build API in Express - NodeJS
 
 ## Installation
 
